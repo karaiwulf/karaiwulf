@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallo!
 
 <!--
 **karaiwulf/karaiwulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi!  I'm Ræn.  My pronouns are [fæ/fær](https://pronoun.is/fae).  I like UNIX
+I'm Ræn.  My pronouns are [fæ/fær](https://pronoun.is/fae).  I like UNIX
 and Rust.  I am primarily working on super secret squirrel projects at the
 moment!
 
