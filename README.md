@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi!  I'm Ræn.  My pronouns are [fæ/fær](https://pronoun.is/fae).  I like UNIX
+and Rust.  I am primarily working on super secret squirrel projects at the
+moment!
+
