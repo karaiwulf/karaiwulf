@@ -1,10 +1,5 @@
-### Hallo!
-
-<!--
-**karaiwulf/karaiwulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+## Ræn Kararou
+### One Hot Wolf
 
 - 🔭 I’m currently working on super secret projects.
 - 🌱 I’m currently learning how to exist.
@@ -13,5 +8,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I've been known by more names than is reasonable.
 
 I'm Ræn.  My pronouns are [fæ/fær](https://pronoun.is/fae).  I like UNIX
-and Rust.
+and Rust.  My warez are the most sought after by hackers across the internet.
+lol
 
