@@ -8,6 +8,8 @@
 - ⚡ Fun fact: I've been known by more names than is reasonable.
 
 I'm Ræn.  My pronouns are [fæ/fær](https://pronoun.is/fae).  I like UNIX
-and Rust.  My warez are the most sought after by hackers across the internet.
-lol
+and Rust.
+
+Follow my [blog](https://lesbianunix.dev) or my
+[gemlog](gemini://lesbianunix.dev).  
 
