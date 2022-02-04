@@ -1,7 +1,7 @@
 ## Ræn Kararou
 ### One Hot Wolf
 
-- 🔭 I’m currently working on super secret projects.
+- 🔭 I'm studying Rust, CS, and InfoSec.
 - 🌱 I’m currently learning how to exist.
 - 👯 I’m looking to collaborate on Rust projects.
 - 💬 Ask me about pretty much anything.
